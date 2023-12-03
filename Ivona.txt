@@ -1,1 +1,2 @@
-domácí úkol
+Ahoj,
+soubor je vytvořen.
